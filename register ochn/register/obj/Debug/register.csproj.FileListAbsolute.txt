@@ -1,0 +1,22 @@
+C:\Users\Student\source\repos\register\register\bin\Debug\register.exe.config
+C:\Users\Student\source\repos\register\register\bin\Debug\register.exe
+C:\Users\Student\source\repos\register\register\bin\Debug\register.pdb
+C:\Users\Student\source\repos\register\register\obj\Debug\register.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\register\register\obj\Debug\register.Form1.resources
+C:\Users\Student\source\repos\register\register\obj\Debug\register.Form2.resources
+C:\Users\Student\source\repos\register\register\obj\Debug\register.Properties.Resources.resources
+C:\Users\Student\source\repos\register\register\obj\Debug\register.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\register\register\obj\Debug\register.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\register\register\obj\Debug\register.exe
+C:\Users\Student\source\repos\register\register\obj\Debug\register.pdb
+C:\Users\Student\source\repos\register ochn\register\bin\Debug\register.exe.config
+C:\Users\Student\source\repos\register ochn\register\bin\Debug\register.exe
+C:\Users\Student\source\repos\register ochn\register\bin\Debug\register.pdb
+C:\Users\Student\source\repos\register ochn\register\obj\Debug\register.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\register ochn\register\obj\Debug\register.Form1.resources
+C:\Users\Student\source\repos\register ochn\register\obj\Debug\register.Form2.resources
+C:\Users\Student\source\repos\register ochn\register\obj\Debug\register.Properties.Resources.resources
+C:\Users\Student\source\repos\register ochn\register\obj\Debug\register.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\register ochn\register\obj\Debug\register.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\register ochn\register\obj\Debug\register.exe
+C:\Users\Student\source\repos\register ochn\register\obj\Debug\register.pdb
